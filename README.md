@@ -1,7 +1,12 @@
-# hello-world
-My first project
+<!DOCTYPE html>
+<html>
+<head>
+<h1>My First Website</h1>
+</head>
+<body>
 
+<h2>About Me</h2>
+<p>My name is Kyle Warren and I am an elementary computer teacher.</p>
 
-Following the Hello world instructions to update my page.
-
-This time ill do it without the instructions
+</body>
+</html>
